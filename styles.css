@@ -77,6 +77,15 @@ nav a {
     }
 }
 
+
+@media (max-width: 679px) {
+    .secondintro .row{
+        display: flex;
+        flex-direction: row-reverse;
+    }
+}
+
+
 .mt-20{
     margin-top: 20px;
 }
